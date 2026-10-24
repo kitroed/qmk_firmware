@@ -29,4 +29,6 @@
 
 /* Indications */
 #    define CAPS_LOCK_INDEX 50
+#    define SCROLL_LOCK_INDEX 14
+#    define NUM_LOCK_INDEX 15
 #endif
